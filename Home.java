@@ -1,5 +1,5 @@
-package HashCalculator;
-
+package HashCalculator;                                                                                // Vikas Shendge
+                                                                                           
 import hashing.HashingAlgorithms;
 import java.awt.*;
 import java.awt.event.ActionEvent;
