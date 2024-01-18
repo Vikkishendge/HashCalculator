@@ -1,5 +1,7 @@
 package HashCalculator;
-
+/*
+Vikas Shendge
+*/
 import java.io.*;
 import java.security.NoSuchAlgorithmException;
 
